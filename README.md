@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LQS-LQS
 - 👀 I’m interested in making money.😄
-- 🌱 I’m currently learning JavaScript,Vue and so on...
+- 🌱 I’m currently learning JavaScript,Vue,小程序 and so on...
 - 📫 How to reach me ... please contact me by 1757569161@qq.com 
 
 <!---
